@@ -43,7 +43,7 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "Hai, saya Sofhia Ismawati,saya anak pertama dari 3 bersaudara, saya sekolah di SMKN PASIRIAN, saya mengambil jurusan Multimedia."
-  descripe_l2_person: "Alamat saya di Candipuro [here](#projects)"
+  descripe_l2_person: "Alamat saya di Candipuro. [here](#projects)"
   skills:
     - name: Cooking
       percentage: 90
